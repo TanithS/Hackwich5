@@ -45,6 +45,7 @@
                     </view>
                     <connections>
                         <outlet property="bottomLabel" destination="iJW-GK-TmI" id="wqg-27-TFF"/>
+                        <outlet property="buttonLabel" destination="kq8-wP-LzL" id="OYE-eK-12E"/>
                         <outlet property="topLabel" destination="WO2-zf-s05" id="gre-iO-0tS"/>
                     </connections>
                 </viewController>
